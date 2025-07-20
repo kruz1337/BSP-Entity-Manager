@@ -2,7 +2,7 @@
 This repository has a fully open source of BSP Entity Manager for GoldSrc games.
 
 ![CMake Presets](https://img.shields.io/badge/CMake-Presets-informational?style=plastic) ![Compiler](https://img.shields.io/badge/compiler-GCC-yellow?style=plastic)
-![Language](https://img.shields.io/badge/language-c++-e76089?style=plastic) ![](https://img.shields.io/badge/arch-x64%20%7C%20x86-d9654f?style=plastic) ![](https://img.shields.io/badge/config-Debug%20%7C%20Release-c0c0c0?style=plastic) ![](https://img.shields.io/badge/license-GNU-green?style=plastic)
+![Language](https://img.shields.io/badge/language-c++20-e76089?style=plastic) ![](https://img.shields.io/badge/arch-x64%20%7C%20x86-d9654f?style=plastic) ![](https://img.shields.io/badge/config-Debug%20%7C%20Release-c0c0c0?style=plastic) ![](https://img.shields.io/badge/license-GNU-green?style=plastic)
 
 
 ## How to build BSP Entity Manager?
