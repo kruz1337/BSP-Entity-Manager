@@ -25,7 +25,7 @@ This repository has a fully open source of BSP Entity Manager for GoldSrc games.
   
 * You can use one from each of the two brackets group.
   
-* `--config`: Changes values by searching keys. Its not supports comments dont add any comment on config file use only `"key" = "value"` or `key = value` format for every single line and.
+* `--config`: Changes values by searching keys. Its not supports comments dont add any comment on config file use only `"key" = "value"` or `key = value` format for every single line.
 
 * `--entity`: Directly imports entity file which you exported before.
 
